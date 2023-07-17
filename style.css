@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(53d189dfcd54fa9ecae756ddf5a7c2ee.jpg);
+    background-size: 100% auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+h1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 50px;
+    text-align: center;
+    height: 200px;
+    width: 90%;
+    background-color: #ffffff10;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-radius: 20px;
+}
